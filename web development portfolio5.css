@@ -175,3 +175,10 @@ font-weight: 600;
     margin: 0px 500px 90px 700px;
     
 }
+/* footer style */
+footer{
+    display: flex;
+    justify-content: space-around;
+    padding:130px 200px;
+    background-color: #FFF8F3;
+}
