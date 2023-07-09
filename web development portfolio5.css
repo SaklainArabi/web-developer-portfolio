@@ -109,3 +109,7 @@ font-weight: 400;
     display: flex;
     justify-content: space-between;
 }
+.section-description2{
+    margin: 50px 340px 50px 340px;
+    text-align: center;
+}
