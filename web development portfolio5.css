@@ -17,6 +17,8 @@ nav{
     display: flex;
     justify-content: space-around;
     align-items: center;
+    
+    
 }
 .nav-mary{
     color: #181818;
@@ -37,4 +39,19 @@ nav li{
 nav a{
     text-decoration: none;
     color: #474747;
+}
+/* head related style  */
+.head{
+    background-color:  #FFF8F3;
+}
+.banner{
+    padding: 30px 30px 30px 150px;
+}
+.banner{
+    display: flex;
+    align-items: center;
+}
+.banner-image{
+    height: 580px;
+    width: 580px;
 }
